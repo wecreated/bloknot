@@ -4,6 +4,7 @@ public class Fight {
         Pulya pulya = new Pulya();
         Pitbull pitbull = new Pitbull();
         fight(pulya, pitbull);
+        System.out.println("OL");
     }
 
     private static void fight(Pulya pulya, Pitbull pitbull) {
