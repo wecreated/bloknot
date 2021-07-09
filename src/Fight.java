@@ -6,6 +6,9 @@ public class Fight {
         fight(pulya, pitbull);
         System.out.println("OL");
     }
+    void fight() {
+        System.out.println("zhopka");
+    }
 
     private static void fight(Pulya pulya, Pitbull pitbull) {
         while (true) {
